@@ -27,6 +27,18 @@ h2{
     margin-bottom: 20px;
 }
 
+.card{
+    display: inline-block;
+    text-align: center;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+}
+#projects{
+    text-align: center;
+}
+
 @media (max-width: 600px) {
     body{
         background-color: orange;
