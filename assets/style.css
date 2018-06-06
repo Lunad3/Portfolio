@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+#pageContent{
+    background-color: orange;
+}
+#aboutMe{
+    text-align: center;
+    background-color: blue;
+}
+#myProjectsDiv{
+    text-align: center;
+    background-color: red;
+}
