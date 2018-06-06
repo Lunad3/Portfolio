@@ -11,8 +11,8 @@ body{
     margin: 0px 25px 0px 0px;
 }
 #profileDiv img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
 }
 p{
     font-size: 20px;
@@ -37,10 +37,6 @@ h2{
     #profileDiv{
         text-align: center;
         width: 100%;
-    }
-    #profileDiv img{
-        height: 300px;
-        width: 300px;
     }
     
 }
