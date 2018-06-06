@@ -27,7 +27,7 @@ h2{
     margin-bottom: 20px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 600px) {
     body{
         background-color: orange;
     }
@@ -35,6 +35,12 @@ h2{
         text-align: center;
     }
     #profileDiv{
+        text-align: center;
         width: 100%;
     }
+    #profileDiv img{
+        height: 300px;
+        width: 300px;
+    }
+    
 }
