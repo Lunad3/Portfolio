@@ -2,13 +2,24 @@ body{
     background-color: aqua;
 }
 #pageContent{
+    margin: 4% 0%;
+    padding:20px;
     background-color: orange;
 }
-#aboutMe{
+
+#profileDiv{
+    float: left;
     text-align: center;
-    background-color: blue;
 }
+#profileDiv img{
+    height: 200px;
+    width: 200px;
+}
+
+
+
 #myProjectsDiv{
+    align-content: center;
     text-align: center;
     background-color: red;
 }
