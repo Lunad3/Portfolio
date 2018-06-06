@@ -14,6 +14,19 @@ body{
     height: 200px;
     width: 200px;
 }
+p{
+    font-size: 20px;
+}
+h2{
+    font-style: bold;
+    font-size: 35px;
+}
+
+.contentDiv{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 @media (max-width: 550px) {
     body{
         background-color: orange;
